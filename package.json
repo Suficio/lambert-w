@@ -1,0 +1,20 @@
+{
+  "name": "lambert-w",
+  "version": "0.0.1",
+  "description": "Javascript implementation of Lambert W function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheezBarger/lambert-w.git"
+  },
+  "keywords": [
+    "Lambert",
+    "W"
+  ],
+  "author": "Jakub Łabor, Pieter Sheth-Voss",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CheezBarger/lambert-w/issues"
+  },
+  "homepage": "https://github.com/CheezBarger/lambert-w#readme"
+}
