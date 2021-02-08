@@ -1,5 +1,6 @@
 # lambert-w
 Javascript implementation of Lambert W function based on the implementation by [protobi/lambertw](https://github.com/protobi/lambertw).
+
 This implementation introduces a number of changes made as of 2021/02/08:
 - Removes error calculations 
 - Significantly simplifies domain violation handling and return values.
