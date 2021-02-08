@@ -12,6 +12,11 @@ Lambert’s W functions, W(x), are defined to be solutions of the equation W(x) 
 
 ## Usage
 
+```
+npm install CheezBarger/lambert-w
+```
+
+
 ```javascript
 const {lambertW0} = require('lambert-w');
 // Compute the principal Lambert W_0 branch
